@@ -27,3 +27,4 @@ for (const buttonLayer of findComponents(canvasLayers, "Button")) {
 ```
 
 **links**:
+https://2ality.com/2015/03/es6-generators.html

@@ -35,3 +35,6 @@ fetch("/get-markdown-stream")
   })
   .then(() => console.log("Stream complete!"));
 ```
+
+**links:**
+https://developer.chrome.com/docs/ai/render-llm-responses

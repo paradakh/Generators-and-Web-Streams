@@ -9,3 +9,6 @@ Examples:
 - Async Autocomplete: yield search results from a debounced API call as they arrive.
 - API Pagination: yield the items from page 1, then fetch and yield items from page 2, and so on, all within one seamless loop.
 - Async Workflows: Orchestrate complex sequences of async tasks, like a multi-step user onboarding flow.
+
+**Links:**
+Why Async Iterators Matter - Benjamin Gruenbaum (English) https://youtu.be/_IpRX10xZQE?feature=shared&t=561

@@ -40,3 +40,7 @@ Modifies data as it passes through.
 new TextEncoderStream();
 new DecompressionStream("gzip");
 ```
+
+**links:**
+
+- https://web.dev/articles/streams
