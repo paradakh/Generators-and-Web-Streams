@@ -4,4 +4,4 @@
 
 **Solution 1:** Break down the task and utilize the event loop.
 
-**Solution 2:** Use some kind of iterator.
+**Solution 2:** Use some kind of iterator. Which one?
